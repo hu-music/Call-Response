@@ -1,7 +1,7 @@
 # Responding to the Call: Exploring Automatic Music Composition Using a Knowledge-Enhanced Model
 This is the dataset and code implementation of AAAI2024 paper "Responding to the Call: Exploring Automatic Music Composition Using a Knowledge-Enhanced Model".
 
-## CRD Dataset Zip File Structure
+## CRD Dataset Zip File
 * Download CRD Dataset (19,155 Call-Response pairs): https://drive.google.com/file/d/15eX4hl1S2HpOlZ9wdaRA7j4J_resRAYr/view?usp=drive_link
 
 ## Data Processing Script
