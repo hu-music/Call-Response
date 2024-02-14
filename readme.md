@@ -12,4 +12,6 @@ This folder contains the necessary codes and tutorials for running the model. We
 
 ## Demo
 We also provide a demo of machine-composed responses.
+https://zhejinghu.github.io/crg_demo/
+
 
