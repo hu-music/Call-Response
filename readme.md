@@ -13,6 +13,6 @@ This folder contains the necessary codes and tutorials for running the model. We
 We also provide data preprocessing scripts. It will allow you to quickly process CRD Files and your external knowledge data samples (MIDI) into the Compound Word representation as like [Compound Word Transformer](https://github.com/YatingMusic/compound-word-transformer).
 
 ## Demo
-We also provide a demo of machine-composed responses [here](https://zhejinghu.github.io/crg_demo/).
+We also provide a demo of machine-composed responses [here](https://hu-music.github.io/crg_demo/).
 
 
